@@ -16,7 +16,6 @@
 
 .list-group-item {
     cursor: pointer;
-    max-height: 120px;
 }
 
 .list-group-item:hover {
